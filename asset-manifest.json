@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b5a981e8.css",
-    "main.js": "/static/js/main.39e399c7.js",
+    "main.js": "/static/js/main.a9826e32.js",
     "static/js/787.797974b2.chunk.js": "/static/js/787.797974b2.chunk.js",
     "static/media/intro-bg.jpg": "/static/media/intro-bg.2664418daddb1a370d91.jpg",
     "static/media/my_pic.jpg": "/static/media/my_pic.45a0ea2ccfe1c25e5f7e.jpg",
@@ -9,11 +9,11 @@
     "static/media/MD_SAKIL_logo.png": "/static/media/MD_SAKIL_logo.8154f2da04c98722a5f7.png",
     "index.html": "/index.html",
     "main.b5a981e8.css.map": "/static/css/main.b5a981e8.css.map",
-    "main.39e399c7.js.map": "/static/js/main.39e399c7.js.map",
+    "main.a9826e32.js.map": "/static/js/main.a9826e32.js.map",
     "787.797974b2.chunk.js.map": "/static/js/787.797974b2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b5a981e8.css",
-    "static/js/main.39e399c7.js"
+    "static/js/main.a9826e32.js"
   ]
 }
