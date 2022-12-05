@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.3637584c.css",
+    "main.css": "/static/css/main.ea800fd2.css",
     "main.js": "/static/js/main.c306c0cc.js",
     "static/js/787.797974b2.chunk.js": "/static/js/787.797974b2.chunk.js",
     "static/media/intro-bg.jpg": "/static/media/intro-bg.2664418daddb1a370d91.jpg",
@@ -8,12 +8,12 @@
     "static/media/pharmeasy.JPG": "/static/media/pharmeasy.4101f5c9a65b82fede06.JPG",
     "static/media/MD_SAKIL_logo.png": "/static/media/MD_SAKIL_logo.8154f2da04c98722a5f7.png",
     "index.html": "/index.html",
-    "main.3637584c.css.map": "/static/css/main.3637584c.css.map",
+    "main.ea800fd2.css.map": "/static/css/main.ea800fd2.css.map",
     "main.c306c0cc.js.map": "/static/js/main.c306c0cc.js.map",
     "787.797974b2.chunk.js.map": "/static/js/787.797974b2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3637584c.css",
+    "static/css/main.ea800fd2.css",
     "static/js/main.c306c0cc.js"
   ]
 }
