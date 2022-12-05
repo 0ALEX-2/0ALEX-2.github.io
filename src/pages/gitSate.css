@@ -1,0 +1,58 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.github{
+    padding-bottom: 50px;
+    margin: 0px 25px 0px 25px ;
+    padding-top: 30px;
+}
+
+.state>h1{
+    text-align: center;
+    color: rgb(65, 65, 66);
+    text-decoration: underline;
+    padding-bottom: 20px;
+    font-size: 45px;
+    padding-bottom: 50px;
+}
+.images{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(190, 188, 185);
+    padding: 40px;
+    width: fit-content;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+@media screen and (max-width:1040px){
+    .images{
+        margin: auto;
+        display: block;
+        align-items: center;
+        justify-content: center;
+        background-color: rgb(190, 188, 185);
+        padding: 40px;
+        width: fit-content;
+        border-radius: 20px;
+        box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    }
+    .lang{
+        width: 100%;
+    }
+    .stats{
+        width: 100%;
+    }
+    body{
+        margin: 0%;
+        padding: 0%;
+    }
+   
+}
+@media screen and (max-width:640px){
+ 
+}

@@ -7,18 +7,19 @@
   padding: 0;
   font-family: "Outfit", sans-serif;
   /* background-color: #000;*/
-  color: #fff; 
+  /* color: #fff;  */
 }
 
 body {
-  background-color: #000;
+  background-color: grey;
+  
 }
 
 h1,
 h4,
 p,
 a {
-  color: #fff;
+  /* color: #fff; */
   text-decoration: none;
 }
 
@@ -27,7 +28,7 @@ ul {
   color: #fff;
 }
 
-.btn {
+/* .btn {
   padding: 12px 32px;
   font-size: 1rem;
   text-transform: uppercase;
@@ -36,16 +37,16 @@ ul {
   border: 1px solid #fff;
   font-weight: 600;
   cursor: pointer;
-}
+} */
 
-.btn-light {
-  /* background: rgba(255, 255, 255, 0.2); */
+/* .btn-light {
+  background: rgba(255, 255, 255, 0.2); 
   background: transparent;
   color: #fff;
-}
+} */
 
-.btn:hover {
+/* .btn:hover {
   background: rgba(255, 255, 255, 0.2);
   color: #fff;
   transition: 0.3s;
-}
+} */

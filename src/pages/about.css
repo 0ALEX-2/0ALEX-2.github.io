@@ -1,0 +1,65 @@
+.aboutPage{
+    width: 100%;
+    background-color: grey;
+    padding: 80px;
+    margin: auto;
+}
+span{
+    font-size: 28px;
+}
+.avater{
+    width: 300px;
+    border-radius: 50%;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    margin-bottom: 30px;
+}
+
+.content{
+   
+    text-align: center;
+    color: black;
+}
+.text{
+    width: 80%;
+    margin: auto;
+}
+.text p{
+    font-size: 30px;
+    font-weight: 200;
+    color: white;
+}
+@media screen and (max-width:1024px){
+    .aboutPage{
+        
+        background-color: grey;
+    }
+     .content{
+        text-align: center;
+        color: black;
+    }
+   
+}
+@media screen and (max-width:640px){
+     .content{
+        text-align: center;
+        color: black;
+       
+    }
+    .aboutPage{
+        padding: 0%;
+        margin: auto;
+        background-color: grey;
+    }
+    .text p{
+        font-size: 20px;
+        font-weight: 400;
+    }
+    .avater{
+        width: 300px;
+        border-radius: 50%;
+        box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+        margin-bottom: 30px;
+        margin-top: 30px;
+        
+    }
+}

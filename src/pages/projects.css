@@ -1,0 +1,121 @@
+.projects{
+    padding: 20px;
+    background-color: gray;
+}
+
+.projects>h1{
+    text-align: center;
+    color: rgb(65, 65, 66);
+    text-decoration: underline;
+    padding-bottom: 20px;
+    font-size: 45px;
+    padding-bottom: 50px;
+}
+.pharmeasy{
+    display: flex;
+    width: 90%;
+    margin: auto;
+    border-radius: 20px;
+    /* border: 2px solid black; */
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.banner{
+    width: 60%;
+    height: 300px;
+    margin: auto;
+    border-radius: 20px 0px 0px 20px;
+}
+.banner>img{
+    width: 100%;
+    height: 100%;
+    border-radius: 20px 0px 0px 20px;
+}
+.aboutSec{
+    padding: 20px;
+    width: 40%;
+  
+    text-align: center;
+}
+.aboutSec>h3{
+    color:rgb(105, 98, 98);
+    font-weight: 300;
+}
+.icons{
+    font-size: 40px;
+    display: flex;
+    justify-content: space-around;
+    color: rgb(143, 130, 130);
+
+}
+.techUsed{
+
+}
+.techUsed>h2{
+    color: gray;
+    text-decoration: underline;
+    padding: 10px;
+}
+.buttns{
+    margin: auto;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+    width: 200px;
+}
+.buttns>button{
+    
+    padding: 5px 10px 5px 10px;
+    background-color: rgb(152, 156, 156);
+    border: none;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+.buttns> button > a{
+    font-size: 25px;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+.buttns>button:hover{
+    color: black;
+    background-color: rgb(200, 194, 206);
+}
+@media screen and (max-width:1040px){
+    .pharmeasy{
+        display: block;
+        width: 90%;
+        margin: auto;
+        border-radius: 20px;
+        background-color: white;
+        box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    }
+    .banner{
+        width: 100%;
+        height: 300px;
+        margin: auto;
+        border-radius: 20px;
+    }
+    .banner>img{
+        width: 100%;
+        height: 100%;
+        border-radius: 20px 20px 0px 0px;
+    }
+    .aboutSec{
+        padding: 20px;
+        width: 100%;
+      
+        text-align: center;
+    }
+    .aboutSec>h3{
+        color:rgb(105, 98, 98);
+        font-weight: 300;
+    }
+}
+
+@media screen and (max-width:640px){
+
+}
